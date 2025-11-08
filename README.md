@@ -1,1 +1,1 @@
-This is my first README at the root of the repository.
+This is the root README for the holbertonschool-zero_day repository.

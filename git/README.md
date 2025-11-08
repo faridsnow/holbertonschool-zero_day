@@ -1,1 +1,1 @@
-This is my first README inside the git directory.
+This is the README inside the git directory.
